@@ -1,0 +1,38 @@
+body {
+	margin: 0;
+	background-color: #ffe;
+}
+
+header {
+	color: red;
+	text-align: center;
+}
+
+article {
+	width: 70%;
+	margin-left: 15%;
+	background-color: rgb(237, 243, 243);
+	margin-bottom: 10%;
+	border: dashed 2px rgb(246, 248, 246);
+}
+
+article section {
+	margin-top: 20px;
+}
+article section h1 {
+	margin-left: 2%;
+}
+
+article section p {
+	margin-left: 2%;
+	margin-right: 2%;
+}
+
+section form {
+	margin-left: 30%;
+}
+
+section h3 {
+	color: red;
+	margin-left: 3%;
+}
